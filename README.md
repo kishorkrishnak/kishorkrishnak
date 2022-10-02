@@ -5,7 +5,7 @@
 
 I am a programmer, web developer, infosec enthusiast, student and an avid football fan.
 
-🖥️ I primarily code in JavaScript/Typescript and occasionally Java .
+🖥️ I primarily code in JavaScript/Typescript and occasionally in Java .
 
 
 ## Github Stats
