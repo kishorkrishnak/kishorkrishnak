@@ -8,7 +8,4 @@ I am a programmer, web developer, infosec enthusiast, student and an avid footba
 🖥️ I primarily code in JavaScript/Typescript and occasionally in Java .
 
 
-## Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ExoticFormula&show_icons=true&include_all_commits=true)](https://github.com/ExoticFormula/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoticFormula&layout=compact)](https://github.com/ExoticFormula/github-readme-stats)
