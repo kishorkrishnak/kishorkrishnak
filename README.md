@@ -1,11 +1,34 @@
+# kishorcodes
+
+Hey! :wave:
+
+<p>
+  <a href="https://twitter.com/kishorcodes">
+    <img src="https://img.shields.io/badge/-@kishorcodes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishorcodes">
+   </a>
+
+  <a href="https://www.linkedin.com/in/kishorkrishna07/">
+    <img src="https://img.shields.io/badge/-kishorkrishna07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishorkrishna07/">
+  </a>
+   <a href="mailto:kishorkrishnak2004@gmail.com">
+    <img src="https://img.shields.io/badge/-kishorkrishnak2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kishorkrishnak2004@gmail.comme@anshumanv.dev">
+   </a>
+</p>
+    
+-------
+-  ⚡ Kishor Krishna here, a computer science student. 
+-  🍀 Interested in web development and information security.
+-  💭 Feel free to ask me about Javascript, React, Security.
+-  🍎 Know more about me at [kishorkrishna.dev](https://kishorkrishna.dev).
+-  🍿 I like to watch movies and anime. 
+-------
+
+[![Kishor's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kishorcodes&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/kishorcodes)
+
+[![Random Visits](https://randos.online/u/kishorcodes)](https://randos.online/u/kishorcodes/next)
+[![HitCount](http://hits.dwyl.com/kishorcodes/kishorcodes.svg)](http://hits.dwyl.com/kishorcodes/kishorcodes)
 
 
-### Hey 👋, I am Kishor Krishna
-[![Gmail Badge](https://img.shields.io/badge/-kishorkrishnak2004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kishorkrishnak2004@gmail.com)](mailto:kishorkrishnak2004@gmail.com) [![Github Badge](https://img.shields.io/badge/-ExoticFormula-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ExoticFormula/)](https://www.github.com/ExoticFormula/) 
-
-I am a programmer, web developer, infosec enthusiast, student and an avid football fan.
-
-🖥️ I primarily code in Javascript/Typescript and occasionally in Java .
 
 
 
