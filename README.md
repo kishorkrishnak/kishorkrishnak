@@ -20,7 +20,7 @@ Hey! :wave:
 -  🍀 Interested in web development and information security.
 -  💭 Feel free to ask me about Javascript, React, Security.
 -  🍎 Know more about me at [kishorkrishna.dev](https://kishorkrishna.dev).
--  🍿 I like to watch movies and anime. 
+-  🍿 Read my articles at https://medium.com/@kishorkrishna. 
 -------
 
 [![Kishor's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kishorcodes&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/kishorcodes)
