@@ -23,10 +23,7 @@ Hey! :wave:
 -  🍿 Read my articles at https://medium.com/@kishorkrishna. 
 -------
 
-[![Kishor's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kishorcodes&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/kishorcodes)
 
-[![Random Visits](https://randos.online/u/kishorcodes)](https://randos.online/u/kishorcodes/next)
-[![HitCount](http://hits.dwyl.com/kishorcodes/kishorcodes.svg)](http://hits.dwyl.com/kishorcodes/kishorcodes)
 
 
 
