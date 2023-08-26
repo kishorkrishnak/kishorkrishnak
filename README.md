@@ -7,8 +7,8 @@ Hey! :wave:
     <img src="https://img.shields.io/badge/-@kishorcodes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishorcodes">
    </a>
 
-  <a href="https://www.linkedin.com/in/kishorkrishna07/">
-    <img src="https://img.shields.io/badge/-kishorkrishna07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishorkrishna07/">
+  <a href="https://www.linkedin.com/in/kishorkrishnak/">
+    <img src="https://img.shields.io/badge/-kishorkrishnak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishorkrishnak/">
   </a>
    <a href="mailto:kishorkrishnak2004@gmail.com">
     <img src="https://img.shields.io/badge/-kishorkrishnak2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kishorkrishnak2004@gmail.comme@anshumanv.dev">
