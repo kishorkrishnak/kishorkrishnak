@@ -1,4 +1,4 @@
-# kishorcodes
+# Kishor Krishna K
 
 Hey! :wave:
 
