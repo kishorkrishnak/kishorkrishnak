@@ -11,14 +11,14 @@ Hey! :wave:
     <img src="https://img.shields.io/badge/-kishorkrishnak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishorkrishnak/">
   </a>
    <a href="mailto:kishorkrishnak2004@gmail.com">
-    <img src="https://img.shields.io/badge/-kishorkrishnak2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kishorkrishnak2004@gmail.comme@anshumanv.dev">
+    <img src="https://img.shields.io/badge/-kishorkrishnak2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kishorkrishnak2004@gmail.com">
    </a>
 </p>
     
 -------
 -  ⚡ Kishor Krishna here, a computer science student. 
--  🍀 Interested in web development and information security.
--  💭 Feel free to ask me about Javascript, React, Security.
+-  🍀 Interested in web development and GIS.
+-  💭 Feel free to ask me about Javascript, React, and GIS/WebGIS.
 -  🍎 Know more about me at [kishorkrishna.dev](https://kishorkrishna.dev).
 -  🍿 Read my articles at https://medium.com/@kishorkrishna. 
 -------
