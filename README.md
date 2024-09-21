@@ -16,8 +16,8 @@ Hey! :wave:
 </p>
     
 -------
--  ⚡ Kishor Krishna here, a computer science student. 
--  🍀 Interested in web development and GIS.
+-  ⚡ Kishor Krishna here, a Full Stack Developer. 
+-  🍀 Interested in Web Development and GIS.
 -  💭 Feel free to ask me about Javascript, React, and GIS/WebGIS.
 -  🍎 Know more about me at [kishorkrishna.dev](https://kishorkrishna.dev).
 -  🍿 Read my articles at https://medium.com/@kishorkrishna. 
