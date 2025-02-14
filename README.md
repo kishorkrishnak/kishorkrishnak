@@ -18,7 +18,6 @@ Hey! :wave:
 -------
 -  ⚡ Kishor Krishna here, a Full Stack Web Developer. 
 -  🍀 Interested in Web Development and GIS.
--  💭 Feel free to ask me about Javascript, React, and GIS/WebGIS.
 -  🍎 Know more about me at [kishorkrishna.dev](https://kishorkrishna.dev).
 -  🍿 Read my articles at https://medium.com/@kishorkrishna. 
 -------
