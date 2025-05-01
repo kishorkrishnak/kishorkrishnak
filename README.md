@@ -3,8 +3,8 @@
 Hey! :wave:
 
 <p>
-  <a href="https://twitter.com/kishorcodes">
-    <img src="https://img.shields.io/badge/-@kishorcodes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishorcodes">
+  <a href="https://twitter.com/kishorkrishnaa">
+    <img src="https://img.shields.io/badge/-@kishorkrishnaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishorkrishnaa">
    </a>
 
   <a href="https://www.linkedin.com/in/kishorkrishnak/">
