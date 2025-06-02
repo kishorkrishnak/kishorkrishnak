@@ -18,9 +18,10 @@ Hey! :wave:
 -------
 - ⚡ Kishor Krishna here, a Full Stack Web Developer  
 - 🍀 Interested in Web Development and GIS  
-- 🍎 Know more about me at <a href="https://kishorkrishna.xyz" target="_blank">kishorkrishna.xyz</a>  
-- 🍿 Read my articles at <a href="https://medium.com/@kishorkrishna" target="_blank">https://medium.com/@kishorkrishna</a>  
+- 🍎 Know more about me at <a href="https://kishorkrishna.xyz" target="_blank" rel="noopener noreferrer">kishorkrishna.xyz</a>  
+- 🍿 Read my articles at <a href="https://medium.com/@kishorkrishna" target="_blank" rel="noopener noreferrer">https://medium.com/@kishorkrishna</a>  
 -------
+
 
 
 
