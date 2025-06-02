@@ -16,11 +16,11 @@ Hey! :wave:
 </p>
     
 -------
-- ⚡ Kishor Krishna here, a Full Stack Web Developer  
-- 🍀 Interested in Web Development and GIS  
-- 🍎 Know more about me at <a href="https://kishorkrishna.xyz" target="_blank" rel="noopener noreferrer">kishorkrishna.xyz</a>  
-- 🍿 Read my articles at <a href="https://medium.com/@kishorkrishna" target="_blank" rel="noopener noreferrer">https://medium.com/@kishorkrishna</a>  
--------
+- ⚡ Kishor Krishna here, a Full Stack Web Developer
+- 🍀 Interested in Web Development and GIS
+- 🍎 Know more about me at [kishorkrishna.xyz](https://kishorkrishna.xyz)
+- 🍿 Read my articles at https://medium.com/@kishorkrishna
+------- 
 
 
 
